@@ -12,9 +12,10 @@
 
 ---
 
-I pick up new things fast and I don't stop until I understand them. I work on both sides — ML pipelines and full stack apps. What drives me is the logical thinking behind building systems and seeing the finished product actually solve something real.
-
-Currently deep into NLP, RAG architecture, and healthcare AI. Open to ML engineering internships.
+- 🎓 Final year Computing student passionate about AI engineering
+- 🤖 Currently focused on NLP, RAG architecture and healthcare AI  
+- 💡 I enjoy the logic behind building systems as much as the finished product that solves a real problem
+- 🌱 Fast learner — I stay with something until I properly understand it
 
 ---
 
@@ -51,6 +52,6 @@ Currently deep into NLP, RAG architecture, and healthcare AI. Open to ML enginee
 
 <div align="center">
 
-*Currently looking for ML engineering internships — let's connect.*
+*Currently looking for AI/ML engineering internships — let's connect.*
 
 </div>
