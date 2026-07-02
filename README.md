@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi, I'm Kaveesha Ekanayake 👋
+# Kaveesha Ekanayake
 
-### Computing Student → ML Engineer
-#### Building real AI systems | RAG • NLP • Deep Learning • Full Stack
+**Computing Student · ML Engineer in Progress · Full Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaveesha-ekanayake-707985294)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaveeshaEkanayake)
@@ -12,32 +11,29 @@
 
 ---
 
-## 🚀 About Me
+I pick up new things fast and I don't stop until I understand them properly. That's just how I work. Whether it's building a RAG pipeline I'd never heard of before or debugging a React component at midnight, I stay with it until it clicks and until the product actually works the way it should.
 
-I'm a Computing student passionate about building end-to-end AI systems that solve real problems. I started with Information Systems and switched to Computing in my 3rd year after falling in love with Machine Learning.
+I enjoy both sides of development. The logical thinking that goes into ML systems and the satisfaction of seeing a finished product solve a real problem. That combination is what pulls me toward AI engineering, where you need both.
 
-- 🔭 Currently building **AI/ML projects** targeting ML engineering internships
-- 🧠 Focused on **RAG pipelines, NLP, and Deep Learning**
-- 🏥 Interested in **Healthcare AI** — where AI has real impact on people's lives
-- 🌱 Learning **PyTorch, Transformers, and MLOps**
-- 💡 I believe in learning theory and building projects **simultaneously, never separately**
+Right now I'm focused on NLP, deep learning, and building AI systems that do something meaningful. Healthcare AI is where I want to contribute long term.
+
+I'm actively looking for ML engineering internships where I can learn fast, contribute early, and build things that matter.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Work With
 
-**AI / Machine Learning**
+**AI and Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**NLP / Transformers**
+**NLP and Transformers**
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![BERT](https://img.shields.io/badge/Sentence--BERT-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -49,76 +45,62 @@ I'm a Computing student passionate about building end-to-end AI systems that sol
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-**Tools & Deployment**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## Projects
 
-### 🏥 Medical Research Assistant — RAG + NLP
-> AI-powered assistant that retrieves peer-reviewed PubMed papers and generates cited medical answers using RAG architecture
+**Medical Research Assistant**
+An AI assistant that pulls real peer-reviewed papers from PubMed and generates cited answers using a full RAG pipeline I built from scratch. Sentence-BERT for embeddings, FAISS for vector search, Gemini 2.5 Flash as the reader model, deployed on Streamlit Cloud.
 
-**Stack:** Sentence-BERT • FAISS • Gemini 2.5 Flash • Streamlit • PubMed API
+[Live Demo](https://medical-research-assistant.streamlit.app/) · [GitHub](https://github.com/KaveeshaEkanayake/medical-research-assistant)
 
-🔗 [Live Demo](https://medical-research-assistant.streamlit.app/) • [GitHub](https://github.com/KaveeshaEkanayake/medical-research-assistant)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-- Built a full RAG pipeline from scratch — fetch → embed → retrieve → generate
-- 242 real PubMed research papers as knowledge base
-- Semantic search using FAISS vector database — meaning-based, not keyword-based
-- Grounded answers with citations and direct PubMed links
+&nbsp;
 
----
+**Stroke Prediction System**
+End-to-end ML pipeline on 5110 patient records. Dealt with severe class imbalance using SMOTE, compared three models, and selected Logistic Regression for its recall performance in a healthcare context where missing a real case matters more than false alarms.
 
-### 🧠 Stroke Prediction System — Classical ML
-> End-to-end ML pipeline predicting stroke risk from patient medical data
+[GitHub](https://github.com/KaveeshaEkanayake/stroke-prediction-ml)
 
-**Stack:** Python • scikit-learn • SMOTE • Pandas • Seaborn • Jupyter
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-🔗 [GitHub](https://github.com/KaveeshaEkanayake/stroke-prediction-ml)
+&nbsp;
 
-- 5110 patient records, 12 features, binary classification
-- Handled severe class imbalance (4.9% positive cases) using SMOTE
-- Compared Logistic Regression, Decision Tree, Random Forest
-- Logistic Regression selected — highest recall (56%), catching 28/50 real stroke cases
-- ROC-AUC: 0.7784
+**Doctor Appointment Booking System**
+Full stack web application for managing doctor appointments with a React frontend, Express backend, and PostgreSQL database. Built complete CRUD operations with a RESTful API.
 
----
+[GitHub](https://github.com/KaveeshaEkanayake/Doctor_Appointment_Booking_Management_System)
 
-### 🏨 Doctor Appointment Booking System — Full Stack
-> Full-stack web application for managing doctor appointments
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-**Stack:** React • Node.js • Express • PostgreSQL
+&nbsp;
 
-🔗 [GitHub](https://github.com/KaveeshaEkanayake/Doctor_Appointment_Booking_Management_System)
+**DSA Game Hub**
+Five algorithm visualisations turned into playable games. BFS, Dynamic Programming, Ford-Fulkerson, Hungarian Algorithm, and Backtracking — each one a challenge you can actually interact with. Spring Boot backend, React frontend, CI/CD pipeline.
 
-- Complete CRUD operations for patient and doctor management
-- RESTful API with Express.js backend
-- PostgreSQL database with relational schema design
-- Responsive React frontend
+[GitHub](https://github.com/KaveeshaEkanayake/dsa-game-hub)
 
----
-
-### 🎮 DSA Game Hub — Algorithms Visualised
-> Five interactive algorithm games that make Data Structures and Algorithms playable
-
-**Stack:** Java • Spring Boot • React • CI/CD
-
-🔗 [GitHub](https://github.com/KaveeshaEkanayake/dsa-game-hub)
-
-- BFS, Dynamic Programming, Ford-Fulkerson, Hungarian Algorithm, Backtracking
-- Algorithms visualised as interactive playable challenges
-- Spring Boot REST API with React frontend
-- CI/CD pipeline for automated deployment
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -130,31 +112,23 @@ I'm a Computing student passionate about building end-to-end AI systems that sol
 
 ---
 
-## 🗺️ ML Learning Roadmap
+## Where I Am Right Now
 
 ```
-✅ Phase 1 — Python & Math Foundations
-✅ Phase 2 — Classical ML (stroke prediction project complete)
-✅ Phase 3 — NLP & Transformers (RAG project complete)
-🔄 Phase 4 — Deep Learning with PyTorch
-⏳ Phase 5 — MLOps & Deployment
-⏳ Phase 6 — Internship Ready
+Completed   Classical ML          stroke prediction, model evaluation, SMOTE
+Completed   NLP and RAG           transformers, vector search, LLM integration
+In progress Deep Learning         PyTorch, CNNs, sequence models
+Up next     MLOps                 experiment tracking, model serving, pipelines
 ```
-
----
-
-## 📫 Let's Connect
-
-I'm actively looking for **ML Engineering internships**. If you're working on interesting AI problems, let's talk!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaveesha-ekanayake-707985294)
 
 ---
 
 <div align="center">
 
-*"Learn theory and build projects simultaneously, never separately."*
+Open to ML engineering internships. Feel free to reach out.
 
-![Profile Views](https://komarev.com/ghpvc/?username=KaveeshaEkanayake&color=blue&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaveesha-ekanayake-707985294)
+
+![Profile Views](https://komarev.com/ghpvc/?username=KaveeshaEkanayake&color=blue&style=flat)
 
 </div>
