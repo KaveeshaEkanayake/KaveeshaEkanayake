@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vMultiline=true&width=600&lines=Hi+there%2C+I'm+Kaveesha+%F0%9F%91%8B;Computing+Student+%7C+ML+Engineer;Building+AI+that+solves+real+problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vMultiline=true&width=800&lines=Hi+there%2C+I'm+Kaveesha+%F0%9F%91%8B;Computing+Student+%7C+ML+Engineer;Building+real+AI+systems" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaveesha-ekanayake-707985294)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaveeshaEkanayake)
-[![Live Demo](https://img.shields.io/badge/Live_Project-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://medical-research-assistant.streamlit.app/)
 
 </div>
 
@@ -15,7 +14,7 @@
 - 🎓 Final year Computing student passionate about AI engineering
 - 🤖 Currently focused on NLP, RAG architecture and healthcare AI  
 - 💡 I enjoy the logic behind building systems as much as the finished product that solves a real problem
-- 🌱 Fast learner — I stay with something until I properly understand it
+- 🌱 Fast learner - I stay with something until I properly understand it
 
 ---
 
@@ -52,6 +51,6 @@
 
 <div align="center">
 
-*Currently looking for AI/ML engineering internships — let's connect.*
+*Currently looking for AI/ML engineering internships - let's connect.*
 
 </div>
