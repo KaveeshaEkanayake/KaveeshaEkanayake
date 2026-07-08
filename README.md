@@ -1,18 +1,15 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vMultiline=true&width=800&lines=Hi+there%2C+I'm+Kaveesha+%F0%9F%91%8B;Computing+Student+%7C+ML+Engineer;Building+real+AI+systems" alt="Typing SVG" />
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaveesha-ekanayake-707985294)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaveeshaEkanayake)
-
 </div>
 
 ---
 
 - 🎓 Final year Computing student passionate about AI engineering
-- 🤖 Currently focused on NLP, RAG architecture and healthcare AI  
+- 🤖 Currently focused on NLP, RAG architecture and healthcare AI
 - 💡 I enjoy the logic behind building systems as much as the finished product that solves a real problem
 - 🌱 Fast learner - I stay with something until I properly understand it
 
@@ -22,6 +19,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
@@ -42,6 +40,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [💊 Drug Interaction GNN](https://github.com/KaveeshaEkanayake/drug-interaction-gnn) | Graph Neural Network that analyses molecular structures of two drugs and predicts interaction severity · [**Live**](https://drug-interaction-gnn.streamlit.app/) | PyTorch Geometric · RDKit · Gemini · Streamlit |
+| [🫁 MediVision Report Generator](https://github.com/KaveeshaEkanayake/medivision-report-generator) | Multimodal AI that analyses chest X-rays and generates structured radiology reports using vision transformers and RAG | ViT · FAISS · Gemini 2.5 Flash · Streamlit |
 | [🏥 Medical Research Assistant](https://github.com/KaveeshaEkanayake/medical-research-assistant) | RAG pipeline that retrieves PubMed papers and generates cited medical answers · [**Live**](https://medical-research-assistant.streamlit.app/) | SBERT · FAISS · Gemini · Streamlit |
 | [🧠 Stroke Prediction](https://github.com/KaveeshaEkanayake/stroke-prediction-ml) | ML pipeline on 5110 patient records · handled class imbalance with SMOTE · ROC-AUC 0.7784 | scikit-learn · Pandas · Jupyter |
 | [🏨 Doctor Booking System](https://github.com/KaveeshaEkanayake/Doctor_Appointment_Booking_Management_System) | Full stack appointment management with REST API | React · Node.js · PostgreSQL |
@@ -51,6 +51,6 @@
 
 <div align="center">
 
-*Currently looking for AI/ML engineering internships - let's connect.*
+*Currently looking for AI/ML engineering internships — let's connect.*
 
 </div>
